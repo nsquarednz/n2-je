@@ -20,6 +20,8 @@ nytprof.out
 _build/
 Build
 Build.bat
+deploy
+pkg/rpms
 
 # Module::Install
 inc/
